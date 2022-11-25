@@ -1,2 +1,2 @@
 # C-Cord
-Discord client written in C++
+Discord client written in C#
