@@ -3,9 +3,9 @@ Discord client written in C#
 
 
 TODO:
-  Notifications
-  Grab audio devices for calls
-  DRP App integration
+  Notifications,
+  Grab audio devices for calls,
+  DRP App integration,
 
 
 Building:
